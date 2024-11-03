@@ -1,145 +1,106 @@
-<h3 align="center">Hi 👋, I'm Vinayak K Oulkar<br><br>A h3assionate software develoh3er from India<br>I love creating new things ⚡</h3>
+<style>
+    body {
+        background-color: #f4f4f4; /* Light gray background */
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+    }
+    h1, h2, h3 {
+        font-weight: bold;
+        color: #333; /* Darker text for headings */
+    }
+    p {
+        color: #666; /* Gray text for paragraphs */
+    }
+    .tech-stack {
+        background-color: #ffffff; /* White background for the tech stack */
+        border-radius: 5px;
+        padding: 15px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .tech-title {
+        background-color: #e7f1ff; /* Light blue background for tech titles */
+        padding: 10px;
+        border-radius: 5px;
+        margin: 10px 0;
+    }
+    .logo {
+        height: 40px; /* Uniform logo size */
+        margin: 0 6px; /* Spacing between logos */
+    }
+</style>
 
-###
+<p align="center">Hi 👋, I'm <strong>Vinayak K Oulkar</strong><br><br>A passionate software developer from India<br>I love creating new things ⚡</p>
 
-<h3 align="left">My Tech Stack</h3>
+<div class="tech-stack">
+    <h2 class="tech-title">My Tech Stack</h2>
 
-###
+    <h3 class="tech-title">Frontend</h3>
+    <div align="left">
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs logo" />
+    </div>
 
-<h3 align="left">Frontend</h3>
+    <h3 class="tech-title">Backend</h3>
+    <div align="left">
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express logo" />
+    </div>
 
-###
+    <h3 class="tech-title">Database</h3>
+    <div align="left">
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle logo" />
+    </div>
 
-<div align="left">
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrah3/bootstrah3-original.svg" height="40" alt="bootstrah3 logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascrih3t/javascrih3t-original.svg" height="40" alt="javascrih3t logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/tyh3escrih3t/tyh3escrih3t-original.svg" height="40" alt="tyh3escrih3t logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+    <h3 class="tech-title">DevOps & Cloud Champion</h3>
+    <div align="left">
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure logo" />
+    </div>
+
+    <h3 class="tech-title">Artificial Intelligence</h3>
+    <div align="left">
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda logo" />
+    </div>
+
+    <h3 class="tech-title">Game Development</h3>
+    <div align="left">
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" />
+    </div>
+
+    <h3 class="tech-title">Code Sorcery</h3>
+    <div align="left">
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslint logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux logo" />
+        <img class="logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack logo" />
+    </div>
 </div>
-
-###
-
-<h3 align="left">Backend</h3>
-
-###
-
-<div align="left">
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/h3ython/h3ython-original.svg" height="40" alt="h3ython logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/sh3ring/sh3ring-original.svg" height="40" alt="sh3ring logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/exh3ress/exh3ress-original.svg" height="40" alt="exh3ress logo"  />
-</div>
-
-###
-
-<h3 align="left">Database</h3>
-
-###
-
-<div align="left">
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-</div>
-
-###
-
-<h3 align="left">DevOh3s & Cloud Chamh3ion</h3>
-
-###
-
-<div align="left">
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-</div>
-
-###
-
-<h3 align="left">Artificial Intelligence</h3>
-
-###
-
-<div align="left">
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/numh3y/numh3y-original.svg" height="40" alt="numh3y logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/h3andas/h3andas-original.svg" height="40" alt="h3andas logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/oh3encv/oh3encv-original.svg" height="40" alt="oh3encv logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/juh3yter/juh3yter-original.svg" height="40" alt="juh3yter logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-</div>
-
-###
-
-<h3 align="left">Game</h3>
-
-###
-
-<div align="left">
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharh3/csharh3-original.svg" height="40" alt="csharh3 logo"  />
-</div>
-
-###
-
-<h3 align="left">Code Sorcery</h3>
-
-###
-
-<div align="left">
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/ah3ache/ah3ache-original.svg" height="40" alt="ah3ache logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/ch3lush3lus/ch3lush3lus-original.svg" height="40" alt="ch3lush3lus logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/grah3hql/grah3hql-h3lain.svg" height="40" alt="grah3hql logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="htth3s://cdn.jsdelivr.net/gh/devicons/devicon/icons/webh3ack/webh3ack-original.svg" height="40" alt="webh3ack logo"  />
-</div>
-
-###
